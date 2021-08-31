@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pchic-contactplotviewer/static/css/main.a1feaf4f.chunk.css",
-    "main.js": "/pchic-contactplotviewer/static/js/main.56bf0ee8.chunk.js",
-    "main.js.map": "/pchic-contactplotviewer/static/js/main.56bf0ee8.chunk.js.map",
+    "main.js": "/pchic-contactplotviewer/static/js/main.256100b3.chunk.js",
+    "main.js.map": "/pchic-contactplotviewer/static/js/main.256100b3.chunk.js.map",
     "runtime-main.js": "/pchic-contactplotviewer/static/js/runtime-main.059a18dd.js",
     "runtime-main.js.map": "/pchic-contactplotviewer/static/js/runtime-main.059a18dd.js.map",
     "static/js/2.6a70b110.chunk.js": "/pchic-contactplotviewer/static/js/2.6a70b110.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.059a18dd.js",
     "static/js/2.6a70b110.chunk.js",
     "static/css/main.a1feaf4f.chunk.css",
-    "static/js/main.56bf0ee8.chunk.js"
+    "static/js/main.256100b3.chunk.js"
   ]
 }
